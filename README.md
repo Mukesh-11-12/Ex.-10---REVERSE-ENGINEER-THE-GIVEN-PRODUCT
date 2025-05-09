@@ -34,9 +34,11 @@
 
 ### Output:
 
+![436384278-ee324891-39e2-4fc0-9243-64af1e50d510](https://github.com/user-attachments/assets/dacdcc52-f77a-4845-88e3-3ef771ccbe9d)
 
-### Name:
-### Register Number:
+
+### Name:212224040204
+### Register Number:D.MUKESH
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
